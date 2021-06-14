@@ -1,0 +1,4 @@
+image==1.5.32
+Wand==0.6.1
+psycopg2>=2.7.6
+configparser==5.0.0
